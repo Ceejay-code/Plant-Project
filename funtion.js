@@ -3,10 +3,10 @@ var back = document.getElementById('back');
 var next = document.getElementById('next');
 
 var image = new Array(
-    "FIRST PROJECT/pic-1.jpg",
-    "FIRST PROJECT/pic-2.jpg",
-    "FIRST PROJECT/pic-3.jpg",
-    "FIRST PROJECT/pic-4.jpg"
+    "images/pic-1.jpg",
+    "images/pic-2.jpg",
+    "images/pic-3.jpg",
+    "images/pic-4.jpg"
 );
 
 let i = 0;
